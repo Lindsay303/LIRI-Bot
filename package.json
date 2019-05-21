@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Lindsay303/LIRI-Bot/issues"
   },
-  "homepage": "https://github.com/Lindsay303/LIRI-Bot#readme"
+  "homepage": "https://github.com/Lindsay303/LIRI-Bot#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  }
 }

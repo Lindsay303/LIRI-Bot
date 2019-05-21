@@ -1,6 +1,16 @@
-console.log("This is loaded");
-
 exports.spotify = {
-    id: ProcessingInstruction.enc.SPOTIFY_ID,
-    secret: ProcessingInstruction.env.SPOTIFY_SECRET
+    id: process.env.SPOTIFY_ID,
+    secret: process.env.SPOTIFY_SECRET
+};
+
+exports.bandsintown = {
+    id: process.env.BANDSINTOWN_ID
+}
+
+exports.omdb = {
+    id: process.env.OMDB_ID
+}
+
+exports.mapquest = {
+    id: process.env.MAPQUEST_ID
 }
