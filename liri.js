@@ -3,16 +3,14 @@ require("dotenv").config();
 var axios = require("axios");
 var moment = require("moment");
 var fs = require("fs");
+var keys = require("./keys.js");
 
 //For Spotify keys
 const env = process.env;
 
 var Spotify = require('node-spotify-api');
 
-var spotify = new Spotify({
-    id: env.SPOTIFY_ID,
-    secret: env.SPOTIFY_SECRET
-});
+var spotify = new Spotify(keys.spotify);
 
 
 //Input on CLI

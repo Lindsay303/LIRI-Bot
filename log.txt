@@ -32,3 +32,38 @@ do-what-it-says
     Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6aec2e5ae4cd4bd7a5b525f74851c8ed
     Album: The Hits--Chapter One
             
+spotify-this-song lover
+
+
+    Artist: Taylor Swift
+    Track: Lover
+    Preview: null
+    Album: Lover
+            
+concert-this pink
+
+
+    Venue: Circuit Of the Americas
+    Location: Austin, 
+    Event Date: November 2, 2019
+            
+movie-this Shrek
+
+
+    Title: Shrek
+    Released: 2001
+    IMDB Rating: 7.9
+    Rotten Tomatos Rating: 88%
+    Country: USA
+    Language: English
+    Plot: A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
+    Actors: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+            
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a782ea22887540d7b2b90722c891561c
+    Album: The Hits--Chapter One
+            

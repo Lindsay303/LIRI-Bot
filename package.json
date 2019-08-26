@@ -1,7 +1,7 @@
 {
   "name": "Node-Spotify-API",
   "version": "1.0.0",
-  "description": "",
+  "description": "LIRI is a command line node app that takes in parameters and gives you back data. This app uses axios to retrieve data from Bands in Town, OMDB and Spotify.",
   "main": "keys.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +17,14 @@
     "node-spotify-api": "^1.1.1",
     "npm": "^6.11.2",
     "request": "^2.88.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lindsay303/LIRI-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lindsay303/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/Lindsay303/LIRI-Bot#readme"
 }
